@@ -1,0 +1,1 @@
+# aks-acr-identity-keyvault
